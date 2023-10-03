@@ -14,7 +14,7 @@
 	<name>SportyShoes</name>
 	<description>sportyshoes phase 3 project</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
